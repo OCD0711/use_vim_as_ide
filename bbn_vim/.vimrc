@@ -50,3 +50,5 @@ let g:indent_guides_guide_size=1
 set foldmethod=syntax
 " 启动 vim 时关闭折叠代码
 set nofoldenable
+" delete 修复
+set backspace=2
